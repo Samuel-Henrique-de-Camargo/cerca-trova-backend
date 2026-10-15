@@ -1,0 +1,14 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "services": {
+    "backend": {
+      "root": "BackEnd",
+      "framework": "express"
+    },
+    "frontend": {
+      "root": "FrontEnd",
+      "framework": "vite"
+    }
+  },
+  "rewrites": []
+}
